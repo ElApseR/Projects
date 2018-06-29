@@ -1,4 +1,3 @@
-# Projects 
-## by Hyunho Cho
+# Projects by Hyunho Cho
 
 - Dust Data Analysis
